@@ -27,7 +27,7 @@ CSS Modules are used for styling components, ensuring that styles are scoped to 
 ## Custom Geolocation Hook
 The useGeolocation hook is employed to effortlessly retrieve and manage geolocation data. This feature allows users to easily incorporate their current location into their map interactions.
 
-###
+### _
 The primary purpose of this app is to serve as a travel diary.  Users can interact with the map to mark locations they have visited around the world.  These locations are saved as cities and countries, along with additional information like the date of the visit 
 and any notes. Users can also log in and log out using fake authentication.
 
