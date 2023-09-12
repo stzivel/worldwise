@@ -6,17 +6,23 @@
 
 This app is a modern web application built with Vite and React. It leverages various technologies and libraries for a seamless user experience. Here's a brief description of its key features and components:
 
-## React and Vite: The app is built using React, a popular JavaScript library for building user interfaces, and Vite, a fast build tool for modern web development.
+## React and Vite: 
+The app is built using React, a popular JavaScript library for building user interfaces, and Vite, a fast build tool for modern web development.
 
-## React Router: It utilizes React Router for managing client-side routing. This allows users to navigate between different pages of the app without the need for full-page refreshes.
+## React Router: 
+It utilizes React Router for managing client-side routing. This allows users to navigate between different pages of the app without the need for full-page refreshes.
 
-## Context API: The app employs the Context API for state management. Two main contexts are used - CitiesContext and AuthContext - to manage city data and user authentication, respectively.
+## Context API: 
+The app employs the Context API for state management. Two main contexts are used - CitiesContext and AuthContext - to manage city data and user authentication, respectively.
 
-## Leaflet: For displaying an interactive map, the app utilizes the Leaflet library. Users can mark locations they've visited and view cities represented as markers on the map.
+## Leaflet: 
+For displaying an interactive map, the app utilizes the Leaflet library. Users can mark locations they've visited and view cities represented as markers on the map.
 
-## JSON Server: The app simulates a back-end server using JSON Server. This allows it to make API requests to fetch and manipulate data, such as adding, deleting, and retrieving cities.
+## JSON Server: 
+The app simulates a back-end server using JSON Server. This allows it to make API requests to fetch and manipulate data, such as adding, deleting, and retrieving cities.
 
-## CSS Modules: CSS Modules are used for styling components, ensuring that styles are scoped to their respective components and preventing global CSS conflicts.
+## CSS Modules: 
+CSS Modules are used for styling components, ensuring that styles are scoped to their respective components and preventing global CSS conflicts.
 
 ## Custom Geolocation Hook
 The useGeolocation hook is employed to effortlessly retrieve and manage geolocation data. This feature allows users to easily incorporate their current location into their map interactions.
